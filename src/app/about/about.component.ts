@@ -25,7 +25,6 @@ export class AboutComponent implements OnInit{
             }
         );
     }
-    
     onClickAcc1(){
         this.accState1 = !this.accState1;
     }
